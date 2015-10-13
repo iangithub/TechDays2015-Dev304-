@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>NamespaceDefine</title>
+
+    <!-- WinJS 參考 -->
+    <link href="WinJS/css/ui-dark.css" rel="stylesheet" />
+    <script src="WinJS/js/base.js"></script>
+    <script src="WinJS/js/ui.js"></script>
+
+    <!-- NamespaceDefine 參考 -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body class="win-type-body">
+    <div id="datatemplate" data-win-control="WinJS.Binding.Template">
+        <h2 data-win-bind="innerText:nameZh"></h2>
+        <h2 data-win-bind="innerText:ddesc" style="color:green"></h2>
+    </div>
+
+
+    <div data-win-control="WinJS.UI.Pivot">
+
+        <div data-win-control="WinJS.UI.PivotItem" data-win-options="{ header : 'BusST' }">
+            <div id="BusDataList" data-win-control="WinJS.UI.ListView" data-win-options="{itemTemplate : datatemplate}"></div>
+        </div>
+        <div data-win-control="WinJS.UI.PivotItem" data-win-options="{ header : 'About' }">
+            <div style="color:white">這個一個使用WinJS開發的UWA</div>
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>Camera</title>
+
+    <!-- WinJS 參考 -->
+    <link href="WinJS/css/ui-dark.css" rel="stylesheet" />
+    <script src="WinJS/js/base.js"></script>
+    <script src="WinJS/js/ui.js"></script>
+
+    <!-- Camera 參考 -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body class="win-type-body">
+    <section>
+        <img id="CapturedPhoto" style="height:50%; width:60%" />
+    </section>
+        <div id="appBar" data-win-control="WinJS.UI.AppBar">
+            <button data-win-control="WinJS.UI.AppBarCommand"
+                    data-win-options="{id:'CameraBtn',
+                type: 'button',
+                label:'Camera',
+                tooltip:'Camera',
+                icon:'camera',
+                section:'primary'
+                }"></button>
+           
+        </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+D:\MY.NET\Teach\TechDays2015\D3Sample\bin\Debug\ReverseMap\resources.pri
+D:\MY.NET\Teach\TechDays2015\D3Sample\bin\Debug\AppxManifest.xml
+D:\MY.NET\Teach\TechDays2015\D3Sample\bin\Debug\D3Sample.build.appxrecipe
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\ResourceHandlingTask.state
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\priconfig.xml
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\priconfig.xml.intermediate
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\layout.resfiles
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\layout.resfiles.intermediate
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\resources.resfiles
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\resources.resfiles.intermediate
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\pri.resfiles
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\pri.resfiles.intermediate
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\qualifiers.txt
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\qualifiers.txt.intermediate
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\MY.NET\Teach\TechDays2015\D3Sample\bld\Debug\ProjectArchitectures.txt

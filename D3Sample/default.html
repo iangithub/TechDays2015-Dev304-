@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <title>D3Sample</title>
+
+    <!-- WinJS 參考 -->
+    <link href="WinJS/css/ui-light.css" rel="stylesheet" />
+    <script src="WinJS/js/base.js"></script>
+    <script src="WinJS/js/ui.js"></script>
+
+    <!-- D3Sample 參考 -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+
+    <!-- D3.js 參考 -->
+    <script src="Scripts/d3/d3.min.js"></script>
+
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
+
+        svg {
+            width: 100%;
+            height: 100%;
+        }
+
+        path.slice {
+            stroke-width: 2px;
+        }
+
+        polyline {
+            opacity: .3;
+            stroke: black;
+            stroke-width: 2px;
+            fill: none;
+        }
+    </style>
+
+</head>
+<body class="win-type-body">
+        <div class="forcedirected fragment">
+            <header aria-label="Header content" role="banner">
+                <button data-win-control="WinJS.UI.BackButton"></button>
+                <h1 class="titlearea win-type-ellipsis">
+                    <span class="pagetitle">D3.js Sample</span>
+                </h1>
+            </header>
+        </div>
+  
+    <script src="js/d3sample.js"></script>
+</body>
+</html>

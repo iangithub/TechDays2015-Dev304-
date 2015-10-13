@@ -1,0 +1,16 @@
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bin\x86\Debug\ReverseMap\resources.pri
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bin\x86\Debug\AppxManifest.xml
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bin\x86\Debug\HostWebApp.build.appxrecipe
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\ResourceHandlingTask.state
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\priconfig.xml
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\priconfig.xml.intermediate
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\layout.resfiles
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\layout.resfiles.intermediate
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\resources.resfiles
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\resources.resfiles.intermediate
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\pri.resfiles
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\pri.resfiles.intermediate
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\qualifiers.txt
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\qualifiers.txt.intermediate
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\MY.NET\Teach\TechDays2015\HostWebApp\bld\x86\Debug\ProjectArchitectures.txt
